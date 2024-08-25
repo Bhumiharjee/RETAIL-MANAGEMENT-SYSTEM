@@ -41,7 +41,7 @@ A comprehensive Retail Management System designed to streamline and manage the r
    cd RETAIL-MANAGEMENT-SYSTEM
 3. **Install dependencies::**:
    ```bash
-  npm install
+   npm install
 
 4. **Set up the database**:
 
