@@ -42,16 +42,20 @@ A comprehensive Retail Management System designed to streamline and manage the r
 3. **Install dependencies::**:
    ```bash
   npm install
-4. **Set up the database:
 
-. Ensure MySQL is installed and running.
-. Create a new database called retail_management.
-. Run the migration script to set up tables:**:
+4. **Set up the database**:
+
+   - Ensure MySQL is installed and running.
+   - Create a new database called `retail_management`.
+   - Run the migration script to set up tables:
+     ```bash
+     npm run migrate
+     ```
+
+5. **Start the application**:
    ```bash
-   npm run migrate
-5. **Start the application::**:
-   ```bash
-  npm start
+   npm start
+
 
 
 ## Usage
